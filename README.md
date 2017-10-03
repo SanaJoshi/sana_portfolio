@@ -1,4 +1,4 @@
-# README
+
 
 
 # Portfolio of Sana Joshi
@@ -17,14 +17,14 @@ my thought process. I have used "trello" to create the user's experience.
 
 ## Mood board
 I have used Pininterest to Create mood board for color and designs inspirations.
-Mood board [click here](https://github.com/GP-corps/Burger-King-Sizzles/blob/sana/app/assets/images/homepage.png "Home page")
+Mood board [click here](https://au.pinterest.com/sanajoshi/portfolio-website/")
 
 ## Wireframe (UX/UI)
 
 Balsamiq wireframe editor is used to create wireframe for my portfolio.
 
-To check wireframe [click here](https://github.com/GP-corps/Burger-King-Sizzles/blob/sana/app/assets/images/homepage.png "Home page")
+To check wireframe [click here](https://github.com/GP-corps/Burger-King-Sizzles/blob/sana/app/assets/images/homepage.png "Hom")
 
 ## lOGO & favicon
-Logo [click here](https://github.com/GP-corps/Burger-King-Sizzles/blob/sana/app/assets/images/homepage.png "Home page")
-favicon [click here](https://github.com/GP-corps/Burger-King-Sizzles/blob/sana/app/assets/images/homepage.png "Home page")
+Logo [click here](https://github.com/SanaJoshi/sana_portfolio/blob/master/app/assets/images/logo.png "logo")
+favicon [click here](https://github.com/SanaJoshi/sana_portfolio/blob/master/app/assets/images/favicon.jpg")
