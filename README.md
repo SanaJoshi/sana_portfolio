@@ -23,12 +23,12 @@ Mood board [click here](https://au.pinterest.com/sanajoshi/portfolio-website/")
 
 Balsamiq wireframe editor is used to create wireframe for my portfolio.
 
-To check wireframe-mobile version[click here](https://github.com/SanaJoshi/sana_portfolio/blob/master/app/assets/images/wireframe-%20Mobile%20version.png")
+To check wireframe-mobile version[click here](https://github.com/SanaJoshi/sana_portfolio/blob/master/app/assets/images/wireframe-%20Mobile%20version.png "wireframe")
 
-To check wireframe- Table version[click here](https://github.com/SanaJoshi/sana_portfolio/blob/master/app/assets/images/wireframe-Table%20version.png")
+To check wireframe- Table version[click here](https://github.com/SanaJoshi/sana_portfolio/blob/master/app/assets/images/wireframe-Table%20version.png "wireframe")
 
 
 
 ## lOGO & favicon
 Logo [click here](https://github.com/SanaJoshi/sana_portfolio/blob/master/app/assets/images/logo.png "logo")
-favicon [click here](https://github.com/SanaJoshi/sana_portfolio/blob/master/app/assets/images/favicon.jpg")
+favicon [click here](https://github.com/SanaJoshi/sana_portfolio/blob/master/app/assets/images/favicon.jpg "favicon)
