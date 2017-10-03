@@ -13,7 +13,7 @@ Please check my portfolio here [click here](https://github.com/GP-corps/Burger-K
 ## User's experience and MVP
 My potential user of this portfolio will be my potential employers. Please see here
 my thought process. I have used "trello" to create the user's experience.
-[click here](https://github.com/GP-corps/Burger-King-Sizzles/blob/sana/app/assets/images/homepage.png "Home page")
+[click here](https://trello.com/b/5e1OWbbj/myportfolio)
 
 ## Mood board
 I have used Pininterest to Create mood board for color and designs inspirations.
@@ -23,7 +23,11 @@ Mood board [click here](https://au.pinterest.com/sanajoshi/portfolio-website/")
 
 Balsamiq wireframe editor is used to create wireframe for my portfolio.
 
-To check wireframe [click here](https://github.com/GP-corps/Burger-King-Sizzles/blob/sana/app/assets/images/homepage.png "Hom")
+To check wireframe-mobile version[click here](https://github.com/SanaJoshi/sana_portfolio/blob/master/app/assets/images/wireframe-%20Mobile%20version.png")
+
+To check wireframe- Table version[click here](https://github.com/SanaJoshi/sana_portfolio/blob/master/app/assets/images/wireframe-Table%20version.png")
+
+
 
 ## lOGO & favicon
 Logo [click here](https://github.com/SanaJoshi/sana_portfolio/blob/master/app/assets/images/logo.png "logo")
