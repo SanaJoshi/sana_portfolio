@@ -4,11 +4,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="utf-8">
     <title> </title>
+    <%= csrf_meta_tags %>
+
+    <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
-    <link rel="stylesheet" href="styles/style.css">
     <link rel="icon" href="https://i.pinimg.com/736x/37/0b/b2/370bb27288c6b6d76329ce16b9468361--s-logo-design-minimal-logo-design.jpg" type="image/x-icon" />
-    <script src="portfolio.js" type="text/javascript">
-     </script>
     <meta name="keywords" content="Sana Joshi, portfolio,web developer, sydney web developer">
     <meta name="description" content="Sydney based web developer">
   </head>
@@ -19,7 +20,8 @@
     <nav class="navbar navbar-light">
 
       <a class="navbar-brand">
-        <img src="images/logo.png" class="favicon"alt="Nav">
+        <!-- <img src="images/logo.png" class="favicon"alt="Nav"> -->
+        <%= image_tag "favicon.jpg",class: "favicon", alt: "Nav" %>
         Sana
       </a>
       <ul class="nav">
@@ -39,11 +41,23 @@
 </ul>
 <span class="navbar-text">
 
-  <a href="https://www.linkedin.com/in/sanajoshi/"><img src="images/linkedin.png" alt="linkedin"></a>
+  <a href="https://www.linkedin.com/in/sanajoshi/">
+    <!-- <img src="images/linkedin.png" alt="linkedin"> -->
+    <%= image_tag "Linkedin.png", alt: "linkedin" %>
+  </a>
+  <a href="https://www.instagram.com/rohan_mumteam/">
+    <!-- <img src="images/instagram.png" alt="instagram"> -->
+    <%= image_tag "instagram.png", alt: "instagram" %>
+  </a>
+  <a href="https://github.com/SanaJoshi">
+    <!-- <img src="images/github.png" alt="github"> -->
+    <%= image_tag "github.png", alt: "github" %>
+  </a>
+  <a href="https://au.pinterest.com/sanajoshi/">
+    <!-- <img src="images/pininterest1.png" alt="pininterest"> -->
+    <%= image_tag "pininterest1.png", alt: "pininterest" %>
 
-  <a href="https://www.instagram.com/rohan_mumteam/"><img src="images/instagram.png" alt="instagram"></a>
-  <a href="https://github.com/SanaJoshi"><img src="images/github.png" alt="github"></a>
-  <a href="https://au.pinterest.com/sanajoshi/"><img src="images/pininterest1.png" alt="pininterest"></a>
+  </a>
 </span>
     </nav>
     <div class="container-fluid ">
@@ -115,13 +129,17 @@
 
 
       <div class="card">
-        <img class="card-img-top" src="images/Tokyo-2020.jpg" alt="olympic">
+        <%= image_tag "Tokyo-2020.jpg", alt: "Tokyo" %>
+        <!-- <img class="card-img-top" src="images/Tokyo-2020.jpg" alt="olympic"> -->
         <a href="file:///Users/sanajoshi/CLASS/tokyo_2020/index.html" class= "card-link">Tokyo 2020</a>
+
       </div>
 
       <div class="card">
-        <img class="card-img-top" src="images/amaysim.png" alt="amaymobile">
+        <!-- <img class="card-img-top" src="images/amaysim.png" alt="amaymobile"> -->
+        <%= image_tag "amaysim.png", alt: "Amaysim" %>
         <a href="https://amaysimsana.herokuapp.com/" class= "card-link">Amaysim</a>
+
 
       </div>
 

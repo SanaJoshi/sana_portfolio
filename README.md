@@ -43,3 +43,8 @@ favicon [click here](https://github.com/SanaJoshi/sana_portfolio/blob/master/app
 * javascripts
 * bootstrap
 * Ruby on rails
+
+#Steps
+```
+rails generate controller Pages homepage
+```
