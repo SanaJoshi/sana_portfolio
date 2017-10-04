@@ -10,7 +10,7 @@ As an aspiring developer, it is important to be able to demonstrate your abiliti
 ## Website
 My portfolio is deployed in the heroku cloud.
 
-Please check my portfolio here. [click here](https://github.com/GP-corps/Burger-King-Sizzles/blob/sana/app/assets/images/homepage.png "portfolio")
+Please check my portfolio here. [click here](https://sanaportfolio.herokuapp.com/")
 
 ## User's experience and MVP
 My potential user of this portfolio will be my potential employers. Please see here
@@ -43,8 +43,3 @@ favicon [click here](https://github.com/SanaJoshi/sana_portfolio/blob/master/app
 * javascripts
 * bootstrap
 * Ruby on rails
-
-#Steps
-```
-rails generate controller Pages homepage
-```
